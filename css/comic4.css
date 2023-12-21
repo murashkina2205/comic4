@@ -36,8 +36,8 @@
 }
 .comic__item2 .cloud3 {
     position: absolute;
-    width: 200px;
-    top: 130px;
+    width: 243px;
+    top: 120px;
     left:70px;
 }
 .comic__item3 .cloud4 {
@@ -94,25 +94,25 @@
 .comic__item1 .text1 {
     position: absolute;
     top: 73px;
-    right: 44px;
+    right: 50px;
     font-size: 13px;
 }
 .comic__item1 .text2 {
     position: absolute;
-    left: 43px;
+    left: 50px;
     bottom: 86px;
     font-size: 14px;
 }
 .comic__item2 .text3 {
     position: absolute;
-    top: 90px;
-    right: 44px;
+    top: 110px;
+    right: 56px;
     font-size: 12px;
 }
 .comic__item3 .text4 {
     position: absolute;
     top: 77px;
-    right: 45px;
+    right: 50px;
     font-size: 14px;
     text-align: center;
 }
@@ -133,7 +133,7 @@
 .comic__item6 .text7 {
     position: absolute;
     top: 103px;
-    right: 50px;
+    right: 68px;
     font-size: 14px;
     text-align: center;
 }
